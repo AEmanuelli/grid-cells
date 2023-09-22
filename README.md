@@ -65,8 +65,6 @@ $ pip install --upgrade wrapt==1.9.0
 An example training script can be executed from a python interpreter:
 
 ```shell
-$ python train.py --task_root='/grid-cells-datasets' --saver_results_directory='training-results'
+$ python train.py --task_root='/home/alexis/Documents/GitHub/grid-cells/grid-cells-datasets' --saver_results_directory='training-results'
 ```
-
-Disclaimer: This is not an official Google product.
 
